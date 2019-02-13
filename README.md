@@ -1,0 +1,2 @@
+# cdn
+static file service
